@@ -55,4 +55,4 @@ The application is built using the following technologies:
 
 ### 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/username/SecurityCameraWebApp.git
+git clone https://github.com/AltinPajaziti/WebAppSecurityCamera.git
